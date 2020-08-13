@@ -3,6 +3,11 @@ Developed a computer game, whose entire source code can be stored inside a QRCod
 
 #### Author: [Ravin Kumar](https://mr-ravin.github.io)
 
+#### How to play
+
+- Press the key mentioned, and then press enter fast !!!
+- With increasing score, the speed of the game becomes faster and faster !!!
+
 #### Demonstration
 ![game start](https://github.com/mr-ravin/QRGame/blob/master/QRGame_start.png)
 
