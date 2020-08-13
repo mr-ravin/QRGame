@@ -3,18 +3,19 @@ Developed a computer game, whose entire source code can be stored inside a QRCod
 
 #### Author: [Ravin Kumar](https://mr-ravin.github.io)
 
-#### How to play
+#### Source code: QRGame.py
+
+#### Steps to play
 
 - Press the key mentioned, and then press enter fast !!!
 - With increasing score, the speed of the game becomes faster and faster !!!
 
-#### Demonstration
+#### GamePlay
 ![game start](https://github.com/mr-ravin/QRGame/blob/master/QRGame_start.png)
 
 ![game over](https://github.com/mr-ravin/QRGame/blob/master/QRGame_over.png)
 
-
-#### Source Code of Game inside QRCode.
+#### Source Code of the Game inside QRCode.
 ![game qrcode](https://github.com/mr-ravin/QRGame/blob/master/QRGame.png)
 
 ```
