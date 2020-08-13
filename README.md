@@ -10,7 +10,7 @@ Developed a computer game, whose entire source code can be stored inside a QRCod
 
 
 #### Source Code of Game inside QRCode.
-![game start](https://github.com/mr-ravin/QRGame/blob/master/QRGame_qrcode.png)
+![game qrcode](https://github.com/mr-ravin/QRGame/blob/master/QRGame_qrcode.png)
 
 ```
 Copyright (c) 2020 Ravin Kumar
