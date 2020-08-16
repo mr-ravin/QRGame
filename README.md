@@ -24,7 +24,8 @@ Website: https://mr-ravin.github.io
 
 This computer software is registered in Copyright Office, Delhi, India. Diary Number: 11047/2020-CO/SW
 Ravin Kumar is the author of this work. He reserves all the intellectual property rights. 
-Permission will be required from Ravin Kumar for utilizing this work, either partially, or completely. 
+Permission will be required from Ravin Kumar for utilizing this work, either partially, or completely.
+For individual non-commercial use, no permission is required from the Author.
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE 
 WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR 
