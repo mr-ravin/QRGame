@@ -1,5 +1,5 @@
 # QRGame
-QRGame is a minimalist, terminal-based typing game where the player must quickly type a displayed key and press Enter before time runs out. As players advance, the time to respond shortens, pushing speed and accuracy to the limit. A single mistake ends the game, keeping the tension high as the challenge intensifies. True to its name, QRGame can be stored entirely within a simple QR code, making it easy to share and quick to start!
+QRGame is a minimalist, terminal-typing based video game where the player must quickly type a displayed key and press Enter before time runs out. As players advance, the time to respond shortens, pushing speed and accuracy to the limit. A single mistake ends the game, keeping the tension high as the challenge intensifies. True to its name, QRGame can be stored entirely within a simple QR code, making it easy to share and quick to start!
 
 #### Author: [Ravin Kumar](https://mr-ravin.github.io)
 ---
